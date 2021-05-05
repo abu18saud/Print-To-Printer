@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\bin\Debug\netcoreapp3.1\Print To Printer.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\bin\Debug\netcoreapp3.1\Print To Printer.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\bin\Debug\netcoreapp3.1\Print To Printer.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\bin\Debug\netcoreapp3.1\Print To Printer.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\bin\Debug\netcoreapp3.1\Print To Printer.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\bin\Debug\netcoreapp3.1\Print To Printer.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Print-To-Printer\Print To Printer\obj\Debug\netcoreapp3.1\Print To Printer.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Print To Printer/1.0.0": {
+        "runtime": {
+          "Print To Printer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Print To Printer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
